@@ -26,6 +26,6 @@ Key Features:
 
 ## 🔗 Links
 [![play_store](https://bookscape.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgoogleplaystore.c9753875.png&w=384&q=75)](https://play.google.com/store/apps/details?id=com.bookscape)
-[![linkedin](https://bookscape.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDownload_on_the_App_Store_Badge.6891a18d.png&w=384&q=75)](https://apps.apple.com/in/app/bookscape-top-online-bookshop/id6450527680)
+[![apple_store](https://bookscape.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDownload_on_the_App_Store_Badge.6891a18d.png&w=384&q=75)](https://apps.apple.com/in/app/bookscape-top-online-bookshop/id6450527680)
 
 
